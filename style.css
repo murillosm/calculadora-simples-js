@@ -1,0 +1,53 @@
+body {
+    background-color: #77f5b6;
+}
+
+.wrapper {
+    width: 400px;
+    position: absolute;
+    background-color: rgb(31, 31, 31);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.wrapper h2 {
+    font-family: purisa, sans-serif;
+    font-size: 24px;
+}
+
+b {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+button {
+    background-color: #01a13f;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    border-radius: 10px;
+}
+
+#num-one {
+    padding: 14px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+#num-two {
+    padding: 14px;
+    width: 200px;
+    border-radius: 10px;
+}
+
